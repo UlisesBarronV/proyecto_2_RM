@@ -1,0 +1,58 @@
+Sprint Planning:
+En las sesiones de sprint planning acordamos las historias de usuario que fueron creadas por nuestro Analista de datos, en total serán 6 iteraciones o sprints para el desarrollo del proyecto, tal y como acordamos todos los equipos (Scrum Master, Development, UI/UX Designers):
+	Sprint 1 - Estructura del Sitio - Compra de hosting / Migración
+	Sprint 2 - Estructura del Sitio - Estructuración / Maquetación del Sitio Web
+	Sprint 3 - Diseño y carga - Generación código Vue.js
+	Sprint 4 - Diseño y carga - Testing
+
+RESULTADOS DE LA REUNION RETROSPECTIVA
+SPRINT 1
+Investigar Proveedores de Hosting (Investigar que proveedor es el mejor según las características requeridas de Hosting)
+Ulises Barron (Scrum Master) fue el encargado de revisar los proveedores de hosting que mejor se adaptaran al proyecto para poder presentarle al cliente los costos y beneficios de los mismo. Entre las opciones que se presentaron al cliente se encontraron:
+	HOSTINGER:
+o	El mejor hosting de 2023. Hostinger es rapidísimo, fiable y asequible. Incluye todo lo que necesitamos de forma gratuita.
+o	Disponibilidad: 99,98 %
+o	Tiempo de carga: 1.0 s
+o	Por cinco dólares al mes, o incluso menos, nos haremos con el mejor paquete de Hostinger: “Empresarial”. Este paquete incluye:
+	Centros de datos: EE.UU., Europa y Asia
+	Copias de seguridad automáticas: Diarias
+	Garantía de reembolso: Treinta días
+	Almacenamiento en SSD: 200 GB
+	Certificado SSL: Gratuito
+	Dominio: Gratuito
+	Más de 25 millones de usuarios confían en ella
+
+	IONOS:
+o	IONOS es rápido, confiable, económico e incluye todo lo que necesitamos de forma gratuita. También tiene un buen servicio al cliente en Castellano.
+o	Disponibilidad: 99,98 %
+o	Tiempo de carga: 1.0 s
+o	Por cinco dólares al mes, o incluso menos, nos haremos con el mejor paquete de IONOS: “Expert”. Este paquete incluye:
+	Centros de datos: EE.UU. y Europa
+	Copias de seguridad automáticas: Diarias
+	Garantía de reembolso: Treinta días
+	Almacenamiento en SSD: 500 GB
+	Certificado SSL: Gratuito
+	Dominio: Gratuito
+
+	BANA HOSTING:
+o	Bana Hosting es seguro y confiable. Hosting web compartido fácil y asequible, elija una solución de servicios de alojamiento web optimizado para sitios personales y empresariales.
+o	Rápido, Seguro y Siempre Online
+o	Instalador WordPress 1 click
+o	Un 99.9% de tiempo de actividad garantizado
+o	SSL gratis Let’s Encrypt
+o	Garantía de devolución de dinero de 30 días
+o	Soporte Experto 24/7/365
+o	Mejor rendimiento y reducido tiempo de carga
+o	Discos SSD Enterprise Servidores Dell
+o	Copias De Seguridad Automáticas Gratuitas JetBackup
+o	Potencia De CPU 6.9GHz
+o	Memoria 8GB
+o	Sitios Web Para Alojar ILIMITADOS
+o	¿Espacio Ilimitado SSD Ultra +
+
+Seleccionar el mejor proveedor de hosting (Junta con el Cliente y Equipo de Scrum para seleccionar al mejor proveedor y hacer la compra del servicio de hosting.)
+Ulises Barron (Scrum Master) en conjunto con el Development team, UI/UX Designers le presentamos al cliente la información de costos y beneficios. La decisión que se tomó fue la de utilizar BANA HOSTING, en particular el paquete Bana Corporate por $9.95 USD mensuales, nos ofrece máximo soporte para sitios complejos y algo que la cliente requiere para su sitio web por las donaciones y manejo de transferencias bancarias es la memoria, y este paquete le ofrece 8GB de memoria, además de Espacio Ilimitado SSD Ultra.
+Así que el presupuesto económico fue aprobado para que pudiéramos adquirir Bana Hosting.
+
+Migrar el dominio principal del sitio web (Comprado del Servicio de Hosting se realiza con el proceso de migrar el dominio al nuevo Proveedor)
+Ya compramos el servicio de Hosting con Bana Host, y actualmente se está trabajando en la migración del dominio al nuevo proveedor, la cual estimamos será completada el 20 de Septiembre de 2023.
